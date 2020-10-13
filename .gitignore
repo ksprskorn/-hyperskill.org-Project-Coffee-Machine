@@ -41,5 +41,4 @@ gradlew
 *.idx
 *.txt
 *_tmp
-/Contacts/task/
 *.yaml~
